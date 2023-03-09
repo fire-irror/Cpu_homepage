@@ -5,7 +5,7 @@ body{     /*배경 색깔 넣기*/
 :root {
   --accent-color:#12887A;
   --text-color: white;
-  --background-color: #303030;
+  --background-color: #333333;
 }
 
 .body {
